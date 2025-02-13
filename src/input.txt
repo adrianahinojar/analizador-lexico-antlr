@@ -1,0 +1,2 @@
+Esto es una prueba donde metemos hastags como #ElPrimero, enlaces web http://www.laweb.edu, o referencias a otros tuiteros como @Pepe. La longitud en este mensaje se ha #controlado por lo que dependiendo del nivel de nota la @salida deberia ser distinta. Esto es una URL http://www.laweb.edu en el texto que no entra dentro del limite especificado.#FIN@
+

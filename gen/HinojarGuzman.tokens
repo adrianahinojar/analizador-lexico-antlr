@@ -1,0 +1,7 @@
+HASHTAG=1
+USER=2
+URL=3
+TEXT=4
+WS=5
+FIN=6
+'#FIN@'=6
