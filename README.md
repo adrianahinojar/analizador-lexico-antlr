@@ -20,7 +20,5 @@ Este proyecto utiliza **ANTLR** para analizar y dar formato a textos similares a
 -  `HinojarGuzman.g4` → Definición de la gramática en ANTLR.
 -  `HinojarGuzman.java` → Lógica principal en Java para el procesamiento y generación de HTML.
 
----
 
- *Ideal para procesar y visualizar textos al estilo Twitter con resaltado automático.* 
 
